@@ -8,6 +8,8 @@
 
 <h2> 📄 Certifications</h2>
 
+- MSc - Computing and Information Systems (Class of 2016 LJMU)
+- BSc - Computer Technology (Class of 2015 LJMU)
 
 <h2> 🤳 Connect with me:</h2>
 
