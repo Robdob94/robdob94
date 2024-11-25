@@ -10,7 +10,9 @@
 - BSc - Computer Technology (Class of 2015 LJMU)
 
 <h2> 💭 Articles/Interesting Projects </h2>
-<a href="https://github.com/Robdob94/FlappyDooM">Doom Style Flappy Bird game built in Python</a>
+<a href="https://github.com/Robdob94/FlappyDooM">Doom Style Flappy Bird game built in Python</a><br>
+<a href="https://github.com/Robdob94/open-interpreter">Open Interpreter</a>
+
 
 <h2> 🤳 Connect with me:</h2>
 
