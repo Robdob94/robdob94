@@ -2,7 +2,8 @@
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 <a href="https://github.com/Robdob94/LiftProgram/tree/main">Simple Lift Program in Java</a><br>
-<a href="https://github.com/Robdob94/Task-Management-System">Task Management System - C#, ASP.NET, TypeScript, REACT</a>
+<a href="https://github.com/Robdob94/Task-Management-System">Task Management System - C#, ASP.NET, TypeScript, REACT</a><br>
+<a href="https://github.com/Robdob94/Console-RPG-C-">RPG Console Game in C#</a>
 
 <h2> 📄 Certifications</h2>
 
